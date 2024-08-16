@@ -22,8 +22,8 @@
 ![GitHub Stats](https://github.com/GruenerNinja/GruenerNinja/blob/main/assets/banner_2.png)
 
 
-![GruenerNinja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GruenerNinja&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GruenerNinja&layout=compact&theme=dark)
+![Simon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimonLugi&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonLugi&layout=compact&theme=dark)
 
 ![Connect with Me](https://github.com/GruenerNinja/GruenerNinja/blob/main/assets/banner_3.png)
 
