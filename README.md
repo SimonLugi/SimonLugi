@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm @GruenerNinja! 
+# 👋 Hi there, I'm @SimonLugi! 
 
 ![Welcome Banner](https://github.com/GruenerNinja/GruenerNinja/assets/banner.png)
 
@@ -8,7 +8,7 @@
 - 👀 I’m interested in **Java**
 - 🌱 I’m currently learning **TypeScript**
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: [Discord](https://discord.gg/45sh5E7Dr8)
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a **Mac OS** user
 
