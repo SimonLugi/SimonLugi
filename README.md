@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm @SimonLugi! 
+# 👋 Hi there, I'm @TheModCraftX2!
 
 ![Welcome Banner](https://github.com/GruenerNinja/GruenerNinja/assets/banner.png)
 
